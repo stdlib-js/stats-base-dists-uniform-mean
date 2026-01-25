@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-06-30)
+## 0.3.0 (2026-01-25)
 
 <section class="features">
 
@@ -34,8 +34,10 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav, Philipp Burckhardt, stdlib-bot)_
+-   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav Jadhav, Philipp Burckhardt, stdlib-bot)_
 -   [`33a4af8`](https://github.com/stdlib-js/stdlib/commit/33a4af8ea02d79120618cb4d50edb87d8aeab6a0) - **chore:** remove extra spaces _(by Philipp Burckhardt)_
 -   [`c4c4ed8`](https://github.com/stdlib-js/stdlib/commit/c4c4ed8abb88be48be587bcc9b9235e10de86aa4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`293cd1a`](https://github.com/stdlib-js/stdlib/commit/293cd1a2427ab5861d145f01c54c9c740048b438) - **feat:** add C implementation for `stats/base/dists/uniform/mean` [(#3964)](https://github.com/stdlib-js/stdlib/pull/3964) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
@@ -52,7 +54,7 @@ A total of 2 issues were closed in this release:
 
 A total of 4 people contributed to this release. Thank you to the following contributors:
 
--   Gaurav
+-   Gaurav Jadhav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
