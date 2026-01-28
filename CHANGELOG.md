@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-01-28)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`6926cf8`](https://github.com/stdlib-js/stdlib/commit/6926cf846717f27831738dbc96fa4bd902ef9dc5) - **bench:** refactor to use string interpolation in `stats/base/dists/uniform` [(#9928)](https://github.com/stdlib-js/stdlib/pull/9928) _(by Lokesh Ranjan)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Lokesh Ranjan
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2026-01-25)
