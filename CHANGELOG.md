@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-28)
+## Unreleased (2026-01-31)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`647b041`](https://github.com/stdlib-js/stdlib/commit/647b041046ea97ebc3cc35297e13f87134438c75) - **bench:** update random value generation for `stats/base/dists/uniform` [(#10007)](https://github.com/stdlib-js/stdlib/pull/10007) _(by Lokesh Ranjan)_
 -   [`6926cf8`](https://github.com/stdlib-js/stdlib/commit/6926cf846717f27831738dbc96fa4bd902ef9dc5) - **bench:** refactor to use string interpolation in `stats/base/dists/uniform` [(#9928)](https://github.com/stdlib-js/stdlib/pull/9928) _(by Lokesh Ranjan)_
 
 </details>
